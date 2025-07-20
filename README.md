@@ -38,7 +38,8 @@ Promote/demote users to/from admin role.
 ## Cookie Demo
 Basic example of setting, reading, and deleting cookies.
 
-# Basic example of setting, reading, and deleting cookies.
+#  Technologies Used
+
   ASP.NET Core MVC
   
   Entity Framework Core (Code First)
