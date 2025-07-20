@@ -1,0 +1,26 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f9fafc;
+}
+
+h2 {
+    font-weight: 600;
+    color: #333;
+}
+
+table th, table td {
+    vertical-align: middle;
+}
+
+.btn {
+    border-radius: 8px;
+}
+
+.form-control, .form-select {
+    border-radius: 8px;
+}
+
+.card {
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}

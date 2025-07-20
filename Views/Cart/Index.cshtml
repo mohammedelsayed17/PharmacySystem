@@ -1,0 +1,58 @@
+﻿@model List<PharmacySystem.Models.CartItem>
+@{
+    ViewData["Title"] = "My Cart";
+}
+
+<div class="container mt-4">
+    <h2 class="fw-bold text-center mb-4">🛒 My Cart</h2>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info text-center">
+            Your cart is empty. <a asp-controller="Medicine" asp-action="Index" class="alert-link">Browse Medicines</a>
+        </div>
+    }
+    else
+    {
+        <div class="card shadow rounded-3">
+            <div class="card-body p-0">
+                <table class="table table-hover mb-0">
+                    <thead class="table-light">
+                        <tr>
+                            <th>Medicine</th>
+                            <th>Details</th>
+                            <th class="text-center">Quantity</th>
+                            <th class="text-end">Price</th>
+                            <th class="text-end">Subtotal</th>
+                            <th class="text-center">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.Medicine.Name</td>
+                                <td>@item.Medicine.Details</td>
+                                <td class="text-center">@item.Quantity</td>
+                                <td class="text-end">@item.Medicine.Price.ToString("C")</td>
+                                <td class="text-end">@((item.Medicine.Price * item.Quantity).ToString("C"))</td>
+                                <td class="text-center">
+                                    <a asp-action="Remove" asp-route-id="@item.Id" class="btn btn-sm btn-outline-danger">
+                                        <i class="bi bi-trash"></i> Remove
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                    <tfoot class="table-light">
+                        <tr>
+                            <td colspan="4"></td>
+                            <td class="text-end fw-bold">Total:</td>
+                            <td class="text-end fw-bold text-success">@ViewBag.Total.ToString("C")</td>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+        </div>
+    }
+</div>

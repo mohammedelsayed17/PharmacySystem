@@ -1,0 +1,606 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\views\\medicine\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:views\\medicine\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\views\\medicine\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:views\\medicine\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\views\\medicine\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:views\\medicine\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\views\\medicine\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:views\\medicine\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\viewmodels\\fakevalidationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:viewmodels\\fakevalidationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\services\\medicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:services\\medicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\services\\imedicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:services\\imedicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\repositories\\medicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:repositories\\medicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\repositories\\imedicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:repositories\\imedicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\models\\customvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:models\\customvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\data\\seedadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:data\\seedadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\controllers\\cookiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:controllers\\cookiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|c:\\users\\amen\\source\\repos\\pharmacysystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{812CE041-40AA-499C-BAFA-8E2106B85A8D}|PharmacySystem.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T19:44:25.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Medicine\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Medicine\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Medicine\\Index.cshtml",
+              "RelativeToolTip": "Views\\Medicine\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T19:44:22.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Medicine\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Medicine\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Medicine\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Medicine\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T19:44:20.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Medicine\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Medicine\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Medicine\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Medicine\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T19:44:17.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Medicine\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Medicine\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Medicine\\Create.cshtml",
+              "RelativeToolTip": "Views\\Medicine\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T19:44:14.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T19:44:13.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T19:44:11.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T19:44:02.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T19:43:56.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:35:13.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T19:43:50.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T19:43:43.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:43:33.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:43:31.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MedicineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Services\\MedicineRepository.cs",
+              "RelativeDocumentMoniker": "Services\\MedicineRepository.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Services\\MedicineRepository.cs",
+              "RelativeToolTip": "Services\\MedicineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:43:03.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IMedicineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Services\\IMedicineRepository.cs",
+              "RelativeDocumentMoniker": "Services\\IMedicineRepository.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Services\\IMedicineRepository.cs",
+              "RelativeToolTip": "Services\\IMedicineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:42:44.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Models\\Medicine.cs",
+              "RelativeDocumentMoniker": "Models\\Medicine.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Models\\Medicine.cs",
+              "RelativeToolTip": "Models\\Medicine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:42:19.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:42:17.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:41:50.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IMedicineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Repositories\\IMedicineRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IMedicineRepository.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Repositories\\IMedicineRepository.cs",
+              "RelativeToolTip": "Repositories\\IMedicineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:32:38.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Services\\NotificationService.cs",
+              "RelativeToolTip": "Services\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:33:49.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FakeValidationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\ViewModels\\FakeValidationViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\FakeValidationViewModel.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\ViewModels\\FakeValidationViewModel.cs",
+              "RelativeToolTip": "ViewModels\\FakeValidationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:34:39.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:41:49.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SeedAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Data\\SeedAdmin.cs",
+              "RelativeDocumentMoniker": "Data\\SeedAdmin.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Data\\SeedAdmin.cs",
+              "RelativeToolTip": "Data\\SeedAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:41:36.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Services\\INotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Services\\INotificationService.cs",
+              "RelativeToolTip": "Services\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:33:29.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:41:34.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MedicineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Repositories\\MedicineRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\MedicineRepository.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Repositories\\MedicineRepository.cs",
+              "RelativeToolTip": "Repositories\\MedicineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:32:40.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MedicineController.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Controllers\\MedicineController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedicineController.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Controllers\\MedicineController.cs",
+              "RelativeToolTip": "Controllers\\MedicineController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:41:12.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:40:58.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:40:46.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomValidators.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Models\\CustomValidators.cs",
+              "RelativeDocumentMoniker": "Models\\CustomValidators.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Models\\CustomValidators.cs",
+              "RelativeToolTip": "Models\\CustomValidators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:34:16.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:40:25.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-28T19:40:16.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CookieController.cs",
+              "DocumentMoniker": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Controllers\\CookieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CookieController.cs",
+              "ToolTip": "C:\\Users\\Amen\\source\\repos\\PharmacySystem\\Controllers\\CookieController.cs",
+              "RelativeToolTip": "Controllers\\CookieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:34:58.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
